@@ -1,4 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Tsuasahi&show_icons=true&hide_title=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Tsuasahi&hide_title=true)
 
 <!--
 **Tsuasahi/Tsuasahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
